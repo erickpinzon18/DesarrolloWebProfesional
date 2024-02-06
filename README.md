@@ -19,3 +19,17 @@ En este repositorio encontrarás proyectos y prácticas relacionadas con el desa
 - `Parcial/`: Número de parcial
   - `Proyecto/`: Nombre del proyecto
 - ...
+
+## Trabajos del Primer Parcial
+
+1. **Fundamentos**
+   - Descripción: Fundamentos de angular.
+   - Enlace a GitHub Pages: [Proyecto del Primer Parcial](https://tuusuario.github.io/Desarrollo-Web-Profesional/ProyectoPrimerParcial)
+
+2. **Clientes**
+   - Descripción: Practica realizada en grupo.
+   - Enlace a GitHub Pages: [Práctica del Primer Parcial](https://tuusuario.github.io/Desarrollo-Web-Profesional/PracticaPrimerParcial)
+
+3. **Tareas**
+   - Descripción: Ejercicio encargado de tarea.
+   - Enlace a GitHub Pages: [Práctica del Primer Parcial](https://tuusuario.github.io/Desarrollo-Web-Profesional/PracticaPrimerParcial)
