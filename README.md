@@ -24,12 +24,12 @@ En este repositorio encontrarás proyectos y prácticas relacionadas con el desa
 
 1. **Fundamentos**
    - Descripción: Fundamentos de angular.
-   - Enlace a GitHub Pages: [Proyecto del Primer Parcial](https://tuusuario.github.io/Desarrollo-Web-Profesional/ProyectoPrimerParcial)
+   - Enlace a GitHub Pages: [Practica Fundamentos](https://erickpinzon18.github.io/DesarrolloWebProfesional/Primer%20Parcial/Fundamentos/index.html)
 
 2. **Clientes**
    - Descripción: Practica realizada en grupo.
-   - Enlace a GitHub Pages: [Práctica del Primer Parcial](https://tuusuario.github.io/Desarrollo-Web-Profesional/PracticaPrimerParcial)
+   - Enlace a GitHub Pages: [Práctica Clientes](https://erickpinzon18.github.io/DesarrolloWebProfesional/Primer%20Parcial/Clientes/index.html)
 
 3. **Tareas**
    - Descripción: Ejercicio encargado de tarea.
-   - Enlace a GitHub Pages: [Práctica del Primer Parcial](https://tuusuario.github.io/Desarrollo-Web-Profesional/PracticaPrimerParcial)
+   - Enlace a GitHub Pages: [Proyecto Tareas](https://erickpinzon18.github.io/DesarrolloWebProfesional/Primer%20Parcial/Tareas/index.html)
