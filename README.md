@@ -32,4 +32,4 @@ En este repositorio encontrarás proyectos y prácticas relacionadas con el desa
 
 3. **Tareas**
    - Descripción: Ejercicio encargado de tarea.
-   - Enlace a GitHub Pages: [Proyecto Tareas](https://erickpinzon18.github.io/DesarrolloWebProfesional/Primer%20Parcial/Tareas/index.html)
+   - Enlace a GitHub Pages: [Proyecto Tareas](https://erickpinzon18.github.io/DesarrolloWebProfesional/Primer%20Parcial/Tasks/index.html)
