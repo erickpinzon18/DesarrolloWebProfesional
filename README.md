@@ -38,7 +38,7 @@ En este repositorio encontrarás proyectos y prácticas relacionadas con el desa
 
 1. **Libros**
    - Descripción: Practica realizada en grupo.
-   - Enlace a GitHub Pages: [Practica Fundamentos](https://erickpinzon18.github.io/DesarrolloWebProfesional/Segundo%20Parcial/Fundamentos/index.html)
+   - Enlace a GitHub Pages: [Practica Libros](https://erickpinzon18.github.io/DesarrolloWebProfesional/Segundo%20Parcial/Libros/index.html)
 
 2. **Clientes**
    - Descripción: Practica realizada en grupo.
