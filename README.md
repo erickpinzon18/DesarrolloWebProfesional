@@ -33,3 +33,17 @@ En este repositorio encontrarás proyectos y prácticas relacionadas con el desa
 3. **Tareas**
    - Descripción: Ejercicio encargado de tarea.
    - Enlace a GitHub Pages: [Proyecto Tareas](https://erickpinzon18.github.io/DesarrolloWebProfesional/Primer%20Parcial/Tasks/index.html)
+
+## Trabajos del Segundo Parcial
+
+1. **Libros**
+   - Descripción: Practica realizada en grupo.
+   - Enlace a GitHub Pages: [Practica Fundamentos](https://erickpinzon18.github.io/DesarrolloWebProfesional/Segundo%20Parcial/Fundamentos/index.html)
+
+2. **Clientes**
+   - Descripción: Practica realizada en grupo.
+   - Enlace a GitHub Pages: [Práctica Clientes](https://erickpinzon18.github.io/DesarrolloWebProfesional/Segundo%20Parcial/Clientes/index.html)
+
+3. **Tareas**
+   - Descripción: Ejercicio encargado de tarea.
+   - Enlace a GitHub Pages: [Proyecto Tareas](https://erickpinzon18.github.io/DesarrolloWebProfesional/Segundo%20Parcial/Tareas/index.html)
